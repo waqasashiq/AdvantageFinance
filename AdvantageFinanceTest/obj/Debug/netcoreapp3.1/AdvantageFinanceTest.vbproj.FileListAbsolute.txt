@@ -1,0 +1,30 @@
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.AssemblyReference.cache
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.Form1.resources
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.GenerateResource.cache
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.AssemblyInfoInputs.cache
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.AssemblyInfo.vb
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.CoreCompileInputs.cache
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.exe
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.deps.json
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.runtimeconfig.json
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.runtimeconfig.dev.json
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.dll
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.pdb
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.dll
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.pdb
+C:\Job work\AdvantageFinanceTest\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.genruntimeconfig.cache
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.exe
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.deps.json
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.runtimeconfig.json
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.runtimeconfig.dev.json
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.dll
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\bin\Debug\netcoreapp3.1\AdvantageFinanceTest.pdb
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.AssemblyReference.cache
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.Form1.resources
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.GenerateResource.cache
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.AssemblyInfoInputs.cache
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.AssemblyInfo.vb
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.vbproj.CoreCompileInputs.cache
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.dll
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.pdb
+C:\Users\track\Desktop\AdvatageFinance\AdvantageFinanceTest\obj\Debug\netcoreapp3.1\AdvantageFinanceTest.genruntimeconfig.cache
